@@ -1,6 +1,8 @@
 # Adidas-vs.-Nike
 Java Script Adidas i Nike
 
+link: http://oziz.ffos.hr/OMS20142015/0122215777/vjezba10/
+
 #ZADATAK:
 
 Stranica (ili više njih) ima/ju tri javascript funckionalnosti. 
